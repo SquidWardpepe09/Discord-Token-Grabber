@@ -4,7 +4,9 @@ Step one, download the files.
 
 Step two, extract the folder.
 
-Step three, open Discord Token Grabber.
+Step three, run the install Bat.
+
+Step four, open Discord Token Grabber.
 
 Let the install run, until it is done. Once done a list of files should pop up.
 
