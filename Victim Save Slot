@@ -1,0 +1,47 @@
+# Delete this when you're saving your victims, as if this isn't deleted, your victims will not be saved!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@join/Discord-Token-Grabber/ {
+  join/Discord-Token-Grabber()
+    If not joined = true
+    save = false
+  else
+    If joined = true
+    save = true
+  }
