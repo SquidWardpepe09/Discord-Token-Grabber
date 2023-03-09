@@ -11,12 +11,7 @@ Let the install run, until it is done. Once done a list of files should pop up.
 Run Discord Token Grabber.exe and enter your victims Discord ID.
 
 ------------------------
-  _____    ___    ____  
- |_   _|  / _ \  / ___| 
-   | |   | | | | \___ \ 
-   | |   | |_| |  ___) |
-   |_|    \___/  |____/ 
-   
+          TOS
 ------------------------
 
 It is not ethical or legal to create and distribute a Discord Token Grabber, as it is a tool designed to steal sensitive information from others without their consent. Therefore, if damages are caused by a Discord Token Grabber, the responsible party would likely be held liable for the damages.
