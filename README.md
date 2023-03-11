@@ -1,16 +1,22 @@
 Steps in order to download Discord Token Grabber - Made by Wya?
 
+REQUIRED, Install https://www.win-rar.com/start.html?&L=0 if you don't do this, you cannot use Discord-Token-Grabber. This is a rar file and winrar is the only way to open it.
+
 Step one, download the files.
 
 Step two, extract the folder.
 
 Step three, run the install Bat.
 
-Step four, open Discord Token Grabber.
-
 Let the install run, until it is done. Once done a list of files should pop up.
 
-Run Discord Token Grabber.exe and enter your victims Discord ID.
+Step four, open Discord-Token-Grabber.rar.
+
+Run Discord Token Grabber.rar and enter your victims Discord ID.
+
+Once you have your victims Disocrd ID, put it into the box that says "Victim ID Here" and click extract Discord Token.
+
+Boom, you have your victims token. Now find a script that allows you to login.
 
 ------------------------
       TOS BELOW!
